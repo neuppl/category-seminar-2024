@@ -7,3 +7,20 @@
 #
 layout: home
 ---
+
+Northeastern Summer 2024 seminar on category theory.
+
+Participants:
+
+* Steven Holtzen
+* Anthony 
+* John M. Li
+* (add yourself!)
+
+Paper goals:
+
+* Eventually get to read 
+
+Supplementary materials:
+
+* 
