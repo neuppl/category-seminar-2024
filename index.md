@@ -22,5 +22,3 @@ Paper goals:
 * Eventually get to read 
 
 Supplementary materials:
-
-* 
